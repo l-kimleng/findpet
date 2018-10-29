@@ -1,0 +1,7 @@
+C:\Users\Kimleng\source\repos\FindPet\bin\Debug\FindPet.exe.config
+C:\Users\Kimleng\source\repos\FindPet\bin\Debug\FindPet.exe
+C:\Users\Kimleng\source\repos\FindPet\bin\Debug\FindPet.pdb
+C:\Users\Kimleng\source\repos\FindPet\obj\Debug\FindPet.csprojAssemblyReference.cache
+C:\Users\Kimleng\source\repos\FindPet\obj\Debug\FindPet.csproj.CoreCompileInputs.cache
+C:\Users\Kimleng\source\repos\FindPet\obj\Debug\FindPet.exe
+C:\Users\Kimleng\source\repos\FindPet\obj\Debug\FindPet.pdb
